@@ -1,8 +1,7 @@
-import streamlit as st
-import yfinance as yf
-import altair as alt
-import plotly.graph_objects as go
-import pandas as pd
-from datetime import datetime
-import talib
-import plotly.express as px
+streamlit
+yfinance
+plotly.graph_objects
+pandas
+datetime
+talib
+plotly.express
